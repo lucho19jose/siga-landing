@@ -1,7 +1,7 @@
 ---
 banner:
-  title: This is a title in a md file woo IDK how actually is working
-  content: this actually is a description for you and others. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: SIGA CETPRO PERU EL FUTURO DE LOS CETPROS ESTA CONTIGO
+  content: Empoderarte a liderar una mejor géstion de tu centro de educación, creemos que la tecnología y la innovación serán el principal acelerador de progreso y sabemos que juntos podemos hacer más!
   image: /images/banner-art.png
   button:
     label: "Contact Us"
