@@ -1,4 +1,4 @@
 ---
-title: "Latest news"
-description: "this is meta description"
+title: "Ultimas Noticias"
+description: "Ultimos publicaciones acerca de los CETPROS"
 ---

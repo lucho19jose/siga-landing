@@ -1,40 +1,40 @@
 ---
 banner:
-  title: SIGA CETPRO PERU EL FUTURO DE LOS CETPROS ESTA CONTIGO
-  content: Empoderarte a liderar una mejor géstion de tu centro de educación, creemos que la tecnología y la innovación serán el principal acelerador de progreso y sabemos que juntos podemos hacer más!
+  title: EL Software de Gestión academica para CETPROS más avanzado
+  content: Te ayuda empoderarte a liderar una mejor géstion de tu centro de educación, creemos que la tecnología y la innovación serán el principal acelerador de progreso y sabemos que juntos podemos hacer más!
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Contacta con Nosotros"
     link: "/contact"
     enable: true
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Algo que Necesitas Saber
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+  - name: "Módulo de Matricula"
+    icon: "/images/checkmark-circle.svg"
+    content: "Obten la pagina de tu CETPRO y el sistema de gestión de matricula para llevar la gestión de tu institución"
+  - name: "Módulo de Registro de Notas"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
+    content: "Generación de actas de notas, registro de evaluación para el nuevo programa, entre otras funcionalidades."
+  - name: "Módulo de Control de Asistencia"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
+    content: "Sistema de Control de Asistencia, tardanzas y reportes de registro de asistencia."
+  - name: "Módulo de Certificados"
+    icon: "/images/certificate.svg"
+    content: "Generación de certificados, certificado modular, Titulo, etc."
+  - name: "Módulo de Reportes"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
+    content: "Opción de visualizar y generar reportes de matricula, notas, ciclo academico."
+  - name: "Aplicación Movil en Google Play"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Los usarios pueden acceder de cualquier plataforma de manera directa."
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Es el software de gestión academica para CETPROS más avanzado"
+    content: "Siga CETPRO Perú es un software de gestión academica para CETPROS, que permite llevar el control de matricula, registro de notas, control de asistencia, generación de certificados, reportes, entre otras funcionalidades."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -44,8 +44,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Se crea junto a la experiencia de especialistas en el sector educativo"
+    content: "Para su desarrollo se ha tomado en cuenta la experiencia de especialistas en el sector educativo, con el fin de brindar una solución que se adapte a las necesidades de los CETPROS en Perú."
     images: 
       - "/images/service-slide-1.png"
     button:
@@ -53,8 +53,8 @@ services:
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Facil de usar y con soporte técnico 24/7" 
+    content: "Facil de usar y con soporte técnico 24/7, para que puedas resolver tus dudas y problemas en cualquier momento. Además, te brindamos una capacitación gratuita para que puedas sacar el máximo provecho."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -64,8 +64,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Lo que diferencia a Siga CETPRO Perú"
+    content: "Lo que diferencia a Siga CETPRO Perú de otros sistemas de gestión academica es que es un software que se adapta a las necesidades de los CETPROS en Perú, además de ser un software de gestión academica para CETPROS que se encuentra en constante evolución, para brindar una mejor experiencia a los usuarios."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
@@ -77,17 +77,17 @@ services:
 
 # workflow
 workflow: 
-  title: "Experience the best workflow with us"
+  title: "Experimenta el mejor flujo de trabajo."
   image: "/images/banner.png"
   description: ""
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: ¿Listo para iniciar?
+  content: Contactanos de forma gratuita, estaremos encantados de conocerte y poder ayudar en todo lo que necesites. 
   image: '/images/cta.png'
   button:
     enable: true
-    label: "Contact Us"
+    label: "Contacta con Nosotros"
     link: "/contact"
 ---
