@@ -19,8 +19,8 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "/contact"
+    "label": "Ingresar al sistema",
+    "link": "https://sigacetproperu.com/"
   },
 
   "params": {

@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Contactanos"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Porque deberias contactarnos!
+  description: Podremos ayudarte en lo que necesites en cuanto a la gestión de tu centro de educación técnico productiva, despejarte dudas y brindarte una capacitación gratuita para que puedas sacar el máximo provecho.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Telefono: +51 125 256 452"
+    - "Correo: [contacto@sigacetproperu.com](mailto:contacto@sigacetproperu.com)"
+    - "Dirección: 360 Main rd, Rio, Peru"
 ---
 
