@@ -4,8 +4,7 @@ description: "meta description"
 draft: false
 plans:
 - title: Plan Basico
-  subtitle: Best For Small Individuals
-  price: 49
+  price: 0
   type: mes
   features:
     - Pagina web del CETPRO
@@ -22,8 +21,7 @@ plans:
     link: "/contact"
 
 - title: Plan Estandar
-  subtitle: Best For Professionals
-  price: 69
+  price: 99
   type: mes
   recommended: true
   features:
@@ -47,9 +45,8 @@ plans:
     label: Inicia
     link: "/contact"
 
-- title: Business Plan
-  subtitle: Best For Large Individuals
-  price: 99
+- title: Plan Premium
+  price: 299
   type: mes
   features:
     - Pagina web del CETPRO
