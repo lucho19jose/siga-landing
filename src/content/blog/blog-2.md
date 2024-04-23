@@ -39,3 +39,5 @@ A pesar de los logros, los CETPROs aún enfrentan desafíos, como la necesidad d
 En resumen, la historia y evolución de los CETPROs en Perú reflejan su importancia en la formación de profesionales altamente capacitados y en el desarrollo del país. Estos centros continúan siendo pilares en la educación técnica y productiva, preparando a la fuerza laboral peruana para los desafíos del siglo XXI.
 
 > La evolución de los CETPROs en Perú es un recordatorio poderoso de cómo la educación técnica puede transformar no solo las vidas individuales, sino también el destino de una nación, abriendo las puertas al progreso y la prosperidad!
+
+<button onclick="window.location.href='https://www.sigacetproperu.com/'" style="background-color: #0AA8A7; border: none; color: white; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; padding: 15px 32px; border-radius: 18px;">Empieza a usar SIGA CETPRO Perú GRATIS</button>

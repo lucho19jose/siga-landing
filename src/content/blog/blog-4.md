@@ -40,6 +40,6 @@ A pesar de las ventajas de la tecnología, los CETPROs enfrentan desafíos, como
 
 En resumen, los CETPROs en la actualidad están abrazando la tecnología para ofrecer una educación más efectiva y relevante. Están preparando a sus estudiantes para sobresalir en un mundo digital en constante cambio, asegurando que estén listos para enfrentar los desafíos y las oportunidades del futuro laboral.
 
-
+<button onclick="window.location.href='https://www.sigacetproperu.com/'" style="background-color: #0AA8A7; border: none; color: white; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; padding: 15px 32px; border-radius: 18px;">Empieza a usar SIGA CETPRO Perú GRATIS</button>
 
 

@@ -33,3 +33,5 @@ Los CETPROs (Centros de Educación Técnico Productiva) son fundamentales en la 
 En resumen, los CETPROs enfrentan desafíos significativos en la actualidad, pero también tienen muchas oportunidades para crecer y prosperar. Al abrazar la tecnología, colaborar con la industria y adaptar sus programas a las demandas cambiantes del mercado laboral, estos centros pueden seguir desempeñando un papel fundamental en la formación de profesionales altamente capacitados para un futuro en constante evolución.
 
 >Los desafíos son las escaleras que conducen a las oportunidades, y los CETPROs están construyendo el camino hacia un futuro más brillante para quienes buscan formación técnica y productiva.
+
+<button onclick="window.location.href='https://www.sigacetproperu.com/'" style="background-color: #0AA8A7; border: none; color: white; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; padding: 15px 32px; border-radius: 18px;">Empieza a usar SIGA CETPRO Perú GRATIS</button>

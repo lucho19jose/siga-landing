@@ -31,3 +31,4 @@ Los CETPROs están diseñados para una amplia gama de personas, desde jóvenes q
 En resumen, los CETPROs ofrecen una educación práctica y orientada a resultados que puede cambiar el curso de tu futuro profesional. 
 
 > El aprendizaje es la llave maestra que desbloquea el potencial ilimitado que yace dentro de cada uno de nosotros
+

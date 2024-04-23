@@ -29,6 +29,8 @@ La relación estrecha entre los CETPROs y la industria es clave para su éxito. 
 
 Los CETPROs no solo preparan a los estudiantes para trabajar en empresas existentes, sino que también fomentan el espíritu emprendedor y la innovación. Los graduados con habilidades técnicas pueden convertirse en empresarios y contribuir al crecimiento del país mediante la creación de sus propios negocios.
 
+<button onclick="window.location.href='https://www.sigacetproperu.com/'" style="background-color: #0AA8A7; border: none; color: white; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; padding: 15px 32px; border-radius: 18px;">Empieza a usar SIGA CETPRO Perú GRATIS</button>
+
 ## Desafíos y futuro de los CETPROs en Perú
 
 Si bien los CETPROs desempeñan un papel vital en el desarrollo del país, enfrentan desafíos como la necesidad de recursos adicionales y la adaptación a las tecnologías emergentes. El futuro de estos centros implica una continua evolución y la adaptación a las demandas cambiantes del mercado laboral.
@@ -37,3 +39,4 @@ En resumen, los CETPROs en Perú son pilares fundamentales en la formación de h
 
 
 
+<button onclick="window.location.href='https://www.sigacetproperu.com/'" style="background-color: #0AA8A7; border: none; color: white; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; padding: 15px 32px; border-radius: 18px;">Empieza a usar SIGA CETPRO Perú GRATIS</button>
