@@ -1,5 +1,11 @@
 # SIGA CETPRO PERÚ LANDING WEB BUILD WITH ASTRO
 
+- Blog
+- Contact
+- Prices
+- FAQ
+
+
 ```sh
 npm create astro@latest -- --template basics
 ```
