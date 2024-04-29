@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# SIGA CETPRO PERÚ LANDING WEB BUILD WITH ASTRO
 
 ```sh
 npm create astro@latest -- --template basics
